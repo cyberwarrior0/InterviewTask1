@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExternalUserApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e21f73458d4eff2b5e7e338d301dca374753706")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dfa9d4b15c65ecc012458a79ada34407ea0e0bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExternalUserApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExternalUserApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
