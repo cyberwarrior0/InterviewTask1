@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExternalUserApi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5b4db6b8d016f2ddb73c2462f10d9ccf39f792")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72f9e135ccde16b44526e3b5777e7929bce1f1a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExternalUserApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExternalUserApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

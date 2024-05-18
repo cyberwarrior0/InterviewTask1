@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WalletTopUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e21f73458d4eff2b5e7e338d301dca374753706")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5b4db6b8d016f2ddb73c2462f10d9ccf39f792")]
 [assembly: System.Reflection.AssemblyProductAttribute("WalletTopUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WalletTopUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
